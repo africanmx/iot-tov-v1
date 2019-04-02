@@ -8,3 +8,4 @@ _pre*
 *.backup
 *.id
 *.kiam
+*file
